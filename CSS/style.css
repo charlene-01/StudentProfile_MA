@@ -1,0 +1,13 @@
+section.main {
+  background-image: url("../Images/login_p.png");
+  height: 100vh;
+}
+section.main div.login-container {
+  width: 60vw;
+  background-image: url("../Images/bg.png");
+  background-size: 100% 100%;
+}
+section.main div.login-container img.BSU {
+  width: 250px;
+  height: 250px;
+}/*# sourceMappingURL=style.css.map */
